@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
     </a>
     <a href="https://hh.ru/resume/929cf2e7ff05c82e140039ed1f36426f69734e">
-      <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=HeadHunter&logoColor=white" alt="HH Badge">
+      <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH Badge">
     </a>
 </div>
 
