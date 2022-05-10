@@ -1,6 +1,7 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="150"/>
+    <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </div>
+
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/marat-shakirov-7bb02423a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -11,15 +12,6 @@
     <a href="https://hh.ru/resume/929cf2e7ff05c82e140039ed1f36426f69734e">
       <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH Badge">
     </a>
-</div>
-
-
-<h1 align="center">
-    hey there, i'm Marat<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
-
-<div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
 ### :man_technologist: &nbsp;About Me :
