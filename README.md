@@ -12,6 +12,8 @@
     </a>
 </div>
 
+---
+
 ### :man_technologist: &nbsp;About Me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Moscow.
@@ -22,7 +24,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marat20&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marat20&layout=compact)
+
+---
 
 ### 🛠 &nbsp;Languages and Tools :
 
