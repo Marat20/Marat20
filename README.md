@@ -20,7 +20,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🔭 I’m looking for a job as a frontend developer.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time read tech articles and do pet-projects.
 
 ---
 
